@@ -78,7 +78,7 @@ This dashboard addresses these challenges by providing an interactive and centra
 
 ## Dashboard Preview
 
-!\[dashboard preview](screenshot/dashboard.jpg)
+!\[dashboard preview] (https://raw.githubusercontent.com/sanjanasinha153/sales-report-powerbi/refs/heads/main/screenshot/dashboard.jpg)
 
 ## Future Enhancements
 
