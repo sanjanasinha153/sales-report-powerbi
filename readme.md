@@ -78,7 +78,7 @@ This dashboard addresses these challenges by providing an interactive and centra
 
 ## Dashboard Preview
 
-!\[dashboard preview](./screenshot/dashboard.jpg)
+!\[dashboard preview](screenshot/dashboard.jpg)
 
 ## Future Enhancements
 
